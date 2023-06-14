@@ -1,0 +1,12 @@
+[submodule "mod-git"]
+	path = mod-git
+	url = https://github.com/code-with-von/mod-git.git
+[submodule "mod-html"]
+	path = mod-html
+	url = https://github.com/code-with-von/mod-html.git
+[submodule "mod-css"]
+	path = mod-css
+	url = https://github.com/code-with-von/mod-css.git
+[submodule "mod-js"]
+	path = mod-js
+	url = https://github.com/code-with-von/mod-js.git
