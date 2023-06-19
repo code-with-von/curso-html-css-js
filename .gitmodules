@@ -10,3 +10,6 @@
 [submodule "mod-js"]
 	path = mod-js
 	url = https://github.com/code-with-von/mod-js.git
+[submodule "mod-projects"]
+	path = mod-projects
+	url = https://github.com/code-with-von/mod-projects.git
